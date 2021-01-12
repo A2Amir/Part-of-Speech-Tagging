@@ -5,10 +5,15 @@ In this notebook, you'll use the [Pomegranate](https://github.com/jmschrei/pomeg
 
 ## Getting Started
 
+To learn more about what the Hidden Markov Model is and how it works, first watch the videos linked below:
+
+* ![1. Hidden Markov Model](/images/1.mp4) 
+* ![2. How to get the heighest probability of Hidden Markov Model graph](/images/2.mp4) 
+* ![3. How to simplify Hidden Markov Model graph](/images/3.mp4) 
+* ![4. Viterbi algorithm](/images/4.mp4) 
+* ![5. Viterbi algorithm](/images/5.mp4) 
 
 
-
-![dsafsadfa](/images/1.mp4) 
 
 You can choose one of two ways to complete the project. The first method is to use the Workspace embedded in the classroom in the next lesson. The Workspace has already been configured with all the required project files for you to complete the project. Simply open the lesson, complete the sections indicated in the Jupyter notebook, and then click the "submit project" button.
 
