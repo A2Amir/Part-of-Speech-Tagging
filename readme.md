@@ -3,7 +3,7 @@
 In this notebook, you'll use the [Pomegranate](https://github.com/jmschrei/pomegranate) library to build a hidden Markov model for part of speech tagging with a [universal tagset](http://www.petrovi.de/data/universal.pdf). Hidden Markov models have been able to achieve >96% tag accuracy with larger tagsets on realistic text corpora. Hidden Markov models have also been used for speech recognition and speech generation, machine translation, gene recognition for bioinformatics, and human gesture recognition for computer vision, and more.
 
 
-## Getting Started
+## Hidden Markov Model
 
 To learn more about what the Hidden Markov Model is and how it works, first watch the videos linked below:
 
@@ -13,6 +13,7 @@ To learn more about what the Hidden Markov Model is and how it works, first watc
 * ![4. Viterbi algorithm](/images/4.mp4) 
 * ![5. Viterbi algorithm](/images/5.mp4) 
 
+## Getting Started
 
 
 You can choose one of two ways to complete the project. The first method is to use the Workspace embedded in the classroom in the next lesson. The Workspace has already been configured with all the required project files for you to complete the project. Simply open the lesson, complete the sections indicated in the Jupyter notebook, and then click the "submit project" button.
