@@ -29,12 +29,12 @@ $ git clone https://github.com/A2Amir/Part-of-Speech-Tagging
 3. Switch to the project folder you cloned the project and create a conda environment (note: you must already have Anaconda installed):
 ```
 $ cd to the project folder you cloned the project
-$ conda env create -f hmm-tagger.yaml
+$ conda env create -f nlp.yaml
 ```
 
 4. Activate the conda environment, then run the jupyter notebook server. (Note: windows users should run `activate hmm-tagger`)
 ```
- $ source activate hmm-tagger
+ $ source activate nlp.yaml
  $ jupyter notebook
 ```
 
