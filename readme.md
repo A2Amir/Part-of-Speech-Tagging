@@ -38,6 +38,6 @@ $ conda env create -f nlp.yaml
  $ jupyter notebook
 ```
 
-Depending on your system settings, Jupyter will either open a browser window, or the terminal will print a URL with a security token. If the terminal prints a URL, simply copy the URL and paste it into a browser window to load the Jupyter browser. Once you load the Jupyter browser, select the project notebook [HMM tagger](https://github.com/A2Amir/Part-of-Speech-Tagging/blob/main/HMM%20Tagger.ipynb) and follow the instructions inside to run the tagger.
+Depending on your system settings, Jupyter will either open a browser window, or the terminal will print a URL with a security token. If the terminal prints a URL, simply copy the URL and paste it into a browser window to load the Jupyter browser. Once you load the Jupyter browser, select the project notebooks [1. HMM warmup](https://github.com/A2Amir/Part-of-Speech-Tagging/blob/main/HMM%20warmup.ipynb)  [2. HMM tagger](https://github.com/A2Amir/Part-of-Speech-Tagging/blob/main/HMM%20Tagger.ipynb) and follow the instructions inside to run the tagger.
 
 
